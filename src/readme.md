@@ -6,4 +6,3 @@ En mi opinión, entre los más importantes logros tecnológicos de la civilizaci
  hora de hablar sobre naves espaciales consiste en la velocidad tue pueden alcanzar y, 
  sobre todo, los sistemas de propulsión. ¿Qué hace tue un vehículo espacial se proyecte 
  en contra de la fuerza gravitatoria?
-    
